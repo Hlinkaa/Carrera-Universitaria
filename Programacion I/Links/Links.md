@@ -1,2 +1,2 @@
-- https://www.youtube.com/watch?v=KMP7ED2nAS4 %% Video Intro JAVA %%
-- https://www.youtube.com/watch?v=LvJvMAW4ygQ %% Video Funciones parte 1 %%
+- https://www.youtube.com/watch?v=KMP7ED2nAS4 [Video Intro JAVA]:#
+- https://www.youtube.com/watch?v=LvJvMAW4ygQ [Video Funciones parte 1]:#
