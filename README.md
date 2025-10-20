@@ -1,5 +1,3 @@
-# Carrera-Universitaria
-
 - Para crear una carpeta dentro de github se usa este "comando" : 
 
   nombre_de_la_carpeta/nombre_del_archivo.md
